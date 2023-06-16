@@ -1,0 +1,6 @@
+CallsTest:testCallsBitmap() (gas: 666)
+CallsTest:testCallsMemory() (gas: 792)
+CallsTest:testFuzzCallsBitmap(bool,bool,bool,bool,bool,bool,bool,bool) (runs: 100000, μ: 1729, ~: 1729)
+CallsTest:testFuzzCallsMemory(bool,bool,bool,bool,bool,bool,bool,bool) (runs: 100000, μ: 1743, ~: 1743)
+CallsTest:testFuzzValidateBitmap(address,bool,bool,bool,bool,bool,bool,bool,bool) (runs: 100000, μ: 1248, ~: 1248)
+CallsTest:testFuzzValidateMemory(address,bool,bool,bool,bool,bool,bool,bool,bool) (runs: 100000, μ: 1945, ~: 1842)
